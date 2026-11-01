@@ -1,3 +1,5 @@
-# DataScience
-This repo contains my projects for data science
+# AI EDA
+Using AI to create my copy of the EDA was extremely helpful. It helped to automate processes that would have taken me more time to figure out. For example, it can create much better visualization much faster than I can. It also displayed some sound knowledge of statistics when I asked it to create a visualization of PIN use vs fraud it automatically opted to do a proportion-based chart to prevent a miss read of the data. Additionally, it being aware of what it had done previously made it easy for me to prompt it to do semi-repetitive tasks. Generally, it was extremely helpful.
+<p>However, without an adequate understanding of data science, blindly using ai could lead to major misinterpretations of the data. In my case, I felt it necessary to walk the Ai step by step of what I wanted it to do instead telling the Ai to make an EDA for me of this data. Doing so could result in the Ai misinterpreting the data or just neglecting to bring up things that could of interest. During my walk through of creating an EDA, I only came across one 'mistake' that Ai made. Every time I prompted it to make a chart, it would re-import the necessary libraries. This is not necessarily prohibited but it can slow down larger programs and is generally unnecessary. This is just a small example, but it demonstrates that AI is more than capable of making mistakes.
+
 
